@@ -11,7 +11,9 @@ https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews
 
 ## How to run?
 To run main.py, you need to enter virtual environment.
-![Alt text](http://C:/Users/Merve/Pictures/Screenshots/wm.png)
+<div align="center">
+    <img src="C:/Users/Merve/Pictures/Screenshots/wm.png" width="400px"</img> 
+</div>
 
 
 In nlp.py, sentiment analysis is performed with nlp libraries.
@@ -19,4 +21,6 @@ In movieLink.py, movie links are being crawl with scrapy.
 In getComments.py, the comments on the link crawl from movielink are crawl with scrapy.
 
 After running main.py, result is like that; 
-![Alt text](http://C:/Users/Merve/Pictures/Screenshots/wm2.png)
+<div align="center">
+    <img src="C:/Users/Merve/Pictures/Screenshots/wm2.png" width="400px"</img> 
+</div>
