@@ -17,7 +17,9 @@ To run main.py, you need to enter virtual environment;
 
 
 In nlp.py, sentiment analysis is performed with nlp libraries.
+
 In movieLink.py, movie links are being crawl with scrapy.
+
 In getComments.py, the comments on the link crawl from movielink are crawl with scrapy.
 
 After running main.py, result is like that;
