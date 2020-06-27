@@ -12,7 +12,7 @@ https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews
 ## How to run?
 To run main.py, you need to enter virtual environment;
 
-![image]((https://user-images.githubusercontent.com/48553941/85927414-8bf30000-b8ae-11ea-8944-8114fc13505e.png)
+![image](https://user-images.githubusercontent.com/48553941/85927414-8bf30000-b8ae-11ea-8944-8114fc13505e.png)
 
 
 
